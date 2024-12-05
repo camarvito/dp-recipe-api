@@ -37,7 +37,7 @@ Note: Ensure that the MONGODB_URI in your .env file matches the configuration de
    yarn seed
  ```
 
-4. 3. **Create the .env file (example in the project) and start the application**
+4. **Create the .env file (example in the project) and start the application**
  ```bash
    yarn start
  ```
