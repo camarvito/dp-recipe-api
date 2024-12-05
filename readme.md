@@ -32,12 +32,12 @@ Welcome to the DP API of this recipe application. This README provides step-by-s
 
 Note: Ensure that the MONGODB_URI in your .env file matches the configuration defined in docker-compose.yml.
 
-3. **Seed the database**
+3. **Create the .env file (example in the project) and seed the database**
  ```bash
    yarn seed
  ```
 
-4. **Create the .env file (example in the project) and start the application**
+4. **Start the application**
  ```bash
    yarn start
  ```
