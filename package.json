@@ -1,0 +1,20 @@
+{
+  "name": "defensepoint-receipe-app",
+  "version": "1.0.0",
+  "description": "DefensePoint Coding Challenge App",
+  "main": "index.js",
+  "author": "Victor Camargo (camarvito)",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "seed": "node seed/seed.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3"
+  }
+}

@@ -1,0 +1,141 @@
+[
+    {
+      "name": "Spaghetti Carbonara",
+      "ingredients": ["spaghetti", "eggs", "parmesan cheese", "pancetta", "black pepper"],
+      "cooking_instructions": "Cook spaghetti until al dente. In a separate bowl, whisk eggs and Parmesan. Fry pancetta until crispy. Combine spaghetti with pancetta and remove from heat. Quickly mix in the egg mixture, stirring continuously. Season with black pepper and serve immediately.",
+      "image_url": "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg"
+    },
+    {
+      "name": "Chicken Alfredo",
+      "ingredients": ["fettuccine", "chicken breast", "heavy cream", "parmesan cheese", "garlic", "butter"],
+      "cooking_instructions": "Cook fettuccine according to package instructions. In a pan, sauté garlic in butter, add sliced chicken breast and cook until done. Pour in heavy cream and simmer. Add Parmesan cheese and stir until the sauce thickens. Combine with fettuccine and serve hot.",
+      "image_url": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg"
+    },
+    {
+      "name": "Beef Tacos",
+      "ingredients": ["ground beef", "taco shells", "lettuce", "tomatoes", "cheddar cheese", "sour cream", "taco seasoning"],
+      "cooking_instructions": "Brown ground beef in a skillet and add taco seasoning. Prepare taco shells as per package instructions. Fill shells with seasoned beef, shredded lettuce, diced tomatoes, grated cheddar cheese, and a dollop of sour cream. Serve immediately.",
+      "image_url": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "ingredients": ["broccoli", "carrots", "bell peppers", "snap peas", "soy sauce", "garlic", "ginger", "sesame oil"],
+      "cooking_instructions": "Heat sesame oil in a wok. Add minced garlic and ginger, sauté until fragrant. Add chopped vegetables and stir-fry until tender-crisp. Pour in soy sauce and cook for another 2 minutes. Serve hot over steamed rice or noodles.",
+      "image_url": "https://www.themealdb.com/images/media/meals/1525873040.jpg"
+    },
+    {
+      "name": "Classic Cheeseburger",
+      "ingredients": ["ground beef", "burger buns", "cheddar cheese", "lettuce", "tomato", "onion", "pickles", "ketchup", "mustard"],
+      "cooking_instructions": "Form ground beef into patties and season with salt and pepper. Grill or pan-fry patties to desired doneness, adding cheddar cheese on top during the last minute. Toast burger buns lightly. Assemble burgers with lettuce, tomato slices, onion rings, pickles, ketchup, and mustard. Serve immediately.",
+      "image_url": "https://www.themealdb.com/images/media/meals/k420tj1585565244.jpg"
+    },
+    {
+      "name": "Margherita Pizza",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "fresh basil", "olive oil", "salt"],
+      "cooking_instructions": "Preheat oven to highest temperature. Spread tomato sauce evenly over rolled-out pizza dough. Top with slices of mozzarella cheese and fresh basil leaves. Drizzle with olive oil and sprinkle with a pinch of salt. Bake until the crust is golden and the cheese is bubbly. Slice and serve hot.",
+      "image_url": "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg"
+    },
+    {
+      "name": "Greek Salad",
+      "ingredients": ["cucumbers", "tomatoes", "red onions", "feta cheese", "kalamata olives", "olive oil", "lemon juice", "oregano"],
+      "cooking_instructions": "Chop cucumbers, tomatoes, and red onions into bite-sized pieces. Combine in a large bowl with feta cheese and kalamata olives. In a small bowl, whisk together olive oil, lemon juice, and oregano. Pour dressing over the salad and toss gently to combine. Serve chilled.",
+      "image_url": "https://www.themealdb.com/images/media/meals/k29viq1585565980.jpg"
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "ingredients": ["all-purpose flour", "baking soda", "salt", "butter", "granulated sugar", "brown sugar", "vanilla extract", "eggs", "chocolate chips"],
+      "cooking_instructions": "Preheat oven to 350°F (175°C). In a bowl, mix flour, baking soda, and salt. In another bowl, cream together butter, granulated sugar, and brown sugar until smooth. Beat in vanilla extract and eggs one at a time. Gradually blend in the dry ingredients. Stir in chocolate chips. Drop spoonfuls onto a baking sheet and bake for 10-12 minutes or until golden brown.",
+      "image_url": "https://www.themealdb.com/images/media/meals/1544384070.jpg"
+    },
+    {
+      "name": "Pancakes",
+      "ingredients": ["all-purpose flour", "baking powder", "salt", "sugar", "milk", "egg", "butter"],
+      "cooking_instructions": "In a bowl, mix flour, baking powder, salt, and sugar. In another bowl, whisk milk, egg, and melted butter. Combine wet and dry ingredients until just mixed. Heat a griddle or skillet over medium heat and grease lightly. Pour batter onto the griddle, cook until bubbles form on the surface, then flip and cook until golden brown. Serve with syrup or your favorite toppings.",
+      "image_url": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg"
+    },
+    {
+      "name": "Caesar Salad",
+      "ingredients": ["romaine lettuce", "croutons", "parmesan cheese", "caesar dressing", "lemon juice", "anchovies (optional)", "garlic"],
+      "cooking_instructions": "Chop romaine lettuce and place in a large bowl. Add croutons and grated Parmesan cheese. In a small bowl, whisk together Caesar dressing, lemon juice, minced garlic, and anchovies if using. Pour dressing over the salad and toss to combine. Serve immediately.",
+      "image_url": "https://www.themealdb.com/images/media/meals/urtwux1486983078.jpg"
+    },
+    {
+      "name": "Grilled Salmon",
+      "ingredients": ["salmon fillets", "olive oil", "lemon slices", "garlic", "dill", "salt", "black pepper"],
+      "cooking_instructions": "Preheat the grill to medium-high heat. Brush salmon fillets with olive oil and season with salt, black pepper, minced garlic, and dill. Place lemon slices on top of the fillets. Grill salmon for 6-8 minutes per side or until fully cooked. Serve hot with your choice of sides.",
+      "image_url": "https://www.themealdb.com/images/media/meals/1549542994.jpg"
+    },
+    {
+      "name": "Beef Stew",
+      "ingredients": ["beef chuck", "carrots", "potatoes", "celery", "onions", "beef broth", "tomato paste", "garlic", "thyme", "bay leaves"],
+      "cooking_instructions": "In a large pot, brown beef chunks in oil over medium heat. Remove and set aside. In the same pot, sauté onions, garlic, carrots, and celery until softened. Add tomato paste and cook for 2 minutes. Return beef to the pot and add beef broth, thyme, and bay leaves. Bring to a boil, then reduce heat and simmer for 1.5 to 2 hours until beef is tender. Add potatoes in the last 30 minutes of cooking. Season with salt and pepper to taste. Serve hot.",
+      "image_url": "https://www.themealdb.com/images/media/meals/vtqxtu1511784197.jpg"
+    },
+    {
+      "name": "Shrimp Scampi",
+      "ingredients": ["shrimp", "garlic", "butter", "olive oil", "white wine", "lemon juice", "parsley", "red pepper flakes", "salt", "black pepper"],
+      "cooking_instructions": "Melt butter with olive oil in a skillet over medium heat. Add minced garlic and red pepper flakes, sauté until fragrant. Add shrimp, season with salt and pepper, and cook until pink. Pour in white wine and lemon juice, simmer for 2-3 minutes. Garnish with chopped parsley and serve over pasta or with crusty bread.",
+      "image_url": "https://www.themealdb.com/images/media/meals/1529445434.jpg"
+    },
+    {
+      "name": "Chicken Curry",
+      "ingredients": ["chicken breast", "onions", "garlic", "ginger", "tomatoes", "coconut milk", "curry powder", "turmeric", "cumin", "cilantro", "salt", "oil"],
+      "cooking_instructions": "Heat oil in a pot over medium heat. Sauté chopped onions, minced garlic, and grated ginger until onions are translucent. Add curry powder, turmeric, and cumin, and cook for another minute. Add diced tomatoes and cook until they break down. Pour in coconut milk and bring to a simmer. Add chicken pieces and cook until fully cooked and tender. Season with salt to taste. Garnish with chopped cilantro and serve with rice or naan bread.",
+      "image_url": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg"
+    },
+    {
+      "name": "Lasagna",
+      "ingredients": ["lasagna noodles", "ground beef", "ricotta cheese", "mozzarella cheese", "Parmesan cheese", "tomato sauce", "onions", "garlic", "egg", "olive oil", "salt", "black pepper"],
+      "cooking_instructions": "Preheat oven to 375°F (190°C). Cook lasagna noodles according to package instructions. In a skillet, heat olive oil and sauté chopped onions and garlic until translucent. Add ground beef and cook until browned. Pour in tomato sauce, season with salt and pepper, and simmer for 15 minutes. In a bowl, mix ricotta cheese with beaten egg. In a baking dish, layer noodles, meat sauce, ricotta mixture, and mozzarella cheese. Repeat layers and finish with Parmesan cheese on top. Cover with foil and bake for 25 minutes. Remove foil and bake for an additional 25 minutes until bubbly and golden. Let it rest for 10 minutes before serving.",
+      "image_url": "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg"
+    },
+    {
+      "name": "Tomato Soup",
+      "ingredients": ["tomatoes", "onions", "garlic", "vegetable broth", "olive oil", "cream", "basil", "salt", "black pepper"],
+      "cooking_instructions": "Heat olive oil in a pot over medium heat. Sauté chopped onions and minced garlic until softened. Add chopped tomatoes and cook until they break down. Pour in vegetable broth and bring to a boil. Reduce heat and simmer for 20 minutes. Use an immersion blender to puree the soup until smooth. Stir in cream, chopped basil, salt, and black pepper. Simmer for another 5 minutes. Serve hot with a garnish of basil leaves.",
+      "image_url": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg"
+    },
+    {
+      "name": "Banana Bread",
+      "ingredients": ["ripe bananas", "all-purpose flour", "baking soda", "salt", "butter", "sugar", "eggs", "vanilla extract"],
+      "cooking_instructions": "Preheat oven to 350°F (175°C). In a bowl, mash ripe bananas with a fork. In another bowl, cream together melted butter and sugar. Beat in eggs and vanilla extract. Combine flour, baking soda, and salt, then gradually add to the banana mixture. Pour batter into a greased loaf pan. Bake for 60-65 minutes or until a toothpick inserted comes out clean. Let it cool before slicing and serving.",
+      "image_url": "https://www.themealdb.com/images/media/meals/xqwwpy1483908697.jpg"
+    },
+    {
+      "name": "Apple Pie",
+      "ingredients": ["pie crust", "apples", "sugar", "cinnamon", "nutmeg", "lemon juice", "butter", "flour"],
+      "cooking_instructions": "Preheat oven to 425°F (220°C). Peel and slice apples. In a large bowl, toss apples with sugar, cinnamon, nutmeg, lemon juice, and flour. Place one pie crust in a pie dish, fill with apple mixture, and dot with butter. Cover with the second crust, sealing the edges and making slits on top to allow steam to escape. Bake for 45-50 minutes until the crust is golden brown. Let it cool before serving.",
+      "image_url": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg"
+    },
+    {
+      "name": "Fish and Chips",
+      "ingredients": ["white fish fillets", "potatoes", "flour", "beer", "baking powder", "salt", "oil", "vinegar"],
+      "cooking_instructions": "Cut potatoes into thick fries and soak in cold water for 30 minutes. Pat dry and fry in hot oil until golden and crispy. For the batter, mix flour, baking powder, and salt in a bowl. Gradually add beer and whisk until smooth. Dip fish fillets into the batter and fry in hot oil until crispy and cooked through. Serve fish with chips, a sprinkle of vinegar, and tartar sauce.",
+      "image_url": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg"
+    },
+    {
+      "name": "Falafel",
+      "ingredients": ["chickpeas", "onions", "garlic", "parsley", "cilantro", "cumin", "coriander", "salt", "pepper", "flour", "oil"],
+      "cooking_instructions": "Soak chickpeas overnight, then drain. In a food processor, combine chickpeas, chopped onions, garlic, parsley, cilantro, cumin, coriander, salt, and pepper. Pulse until a coarse mixture forms. Add flour to bind the mixture. Form into small balls or patties. Heat oil in a deep skillet and fry falafel until golden brown and crispy. Drain on paper towels and serve with pita bread, hummus, and tahini sauce.",
+      "image_url": "https://www.themealdb.com/images/media/meals/lhqev81565090111.jpg"
+    },
+    {
+      "name": "Chocolate Mousse",
+      "ingredients": ["dark chocolate", "eggs", "sugar", "heavy cream", "vanilla extract", "salt"],
+      "cooking_instructions": "Melt dark chocolate in a double boiler and let it cool slightly. Separate egg yolks and whites. In a bowl, whisk egg yolks with sugar until creamy. Fold the melted chocolate into the yolk mixture. In another bowl, whip heavy cream with vanilla extract until soft peaks form. In a clean bowl, beat egg whites with a pinch of salt until stiff peaks form. Gently fold the whipped cream into the chocolate mixture, then fold in the egg whites until fully combined. Spoon the mousse into serving dishes and refrigerate for at least 2 hours before serving.",
+      "image_url": "https://www.themealdb.com/images/media/meals/uttuxy1511382180.jpg"
+    },
+    {
+      "name": "French Toast",
+      "ingredients": ["bread slices", "eggs", "milk", "cinnamon", "vanilla extract", "butter", "maple syrup"],
+      "cooking_instructions": "In a shallow bowl, whisk together eggs, milk, cinnamon, and vanilla extract. Dip each bread slice into the mixture, ensuring both sides are soaked. Heat butter in a skillet over medium heat. Cook the soaked bread slices until golden brown on both sides. Serve hot with maple syrup and your favorite toppings.",
+      "image_url": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg"
+    },
+    {
+      "name": "Sushi Rolls",
+      "ingredients": ["sushi rice", "nori sheets", "cucumber", "avocado", "imitation crab", "soy sauce", "wasabi", "pickled ginger"],
+      "cooking_instructions": "Cook sushi rice according to package instructions and let it cool. Place a nori sheet on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a small border at the top. Arrange cucumber sticks, avocado slices, and imitation crab in a line across the center of the rice. Roll the sushi tightly using the mat. Slice into bite-sized pieces and serve with soy sauce, wasabi, and pickled ginger.",
+      "image_url": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+    }
+  ]
+  
